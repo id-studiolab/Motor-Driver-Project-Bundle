@@ -448,3 +448,27 @@
 [submodule "libraries/drivers/mcp48xx"]
 	path = libraries/drivers/mcp48xx
 	url = https://github.com/brushmate/CircuitPython_MCP48XX.git
+[submodule "libraries/drivers/busdevice"]
+	path = libraries/drivers/busdevice
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BusDevice.git
+[submodule "libraries/drivers/connectionmanager"]
+	path = libraries/drivers/connectionmanager
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ConnectionManager.git
+[submodule "libraries/drivers/dotstar"]
+	path = libraries/drivers/dotstar
+	url = https://github.com/adafruit/Adafruit_DotStar.git
+[submodule "libraries/drivers/esp32spi"]
+	path = libraries/drivers/esp32spi
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI.git
+[submodule "libraries/drivers/logging"]
+	path = libraries/drivers/logging
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Logging.git
+[submodule "libraries/drivers/pixelbuf"]
+	path = libraries/drivers/pixelbuf
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PixelBuf.git
+[submodule "libraries/drivers/requests"]
+	path = libraries/drivers/requests
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Requests.git
+[submodule "libraries/drivers/neopixel"]
+	path = libraries/drivers/neopixel
+	url = https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel.git
