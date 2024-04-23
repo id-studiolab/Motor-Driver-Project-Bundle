@@ -454,9 +454,6 @@
 [submodule "libraries/drivers/connectionmanager"]
 	path = libraries/drivers/connectionmanager
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ConnectionManager.git
-[submodule "libraries/drivers/dotstar"]
-	path = libraries/drivers/dotstar
-	url = https://github.com/adafruit/Adafruit_DotStar.git
 [submodule "libraries/drivers/esp32spi"]
 	path = libraries/drivers/esp32spi
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI.git
