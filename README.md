@@ -14,7 +14,7 @@ To remove a remote CircuitPython repo:
 To locally build a bundle:  
 `python3 -m venv .env`  
 `source .env/bin/activate`  
-`pip install circuitpython-build-tools`
+`pip install circuitpython-build-tools`  
 `./build.sh`
 
 On every push to this repo it will build and check if all is good  
