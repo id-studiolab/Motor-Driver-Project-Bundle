@@ -481,3 +481,6 @@
 [submodule "libraries/drivers/motor"]
 	path = libraries/drivers/motor
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Motor.git
+[submodule "libraries/drivers/hid"]
+	path = libraries/drivers/hid
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HID.git
