@@ -475,12 +475,12 @@
 [submodule "libraries/drivers/minimqtt"]
 	path = libraries/drivers/minimqtt
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT.git
-[submodule "libraries/drivers/vl53l1x"]
-	path = libraries/drivers/vl53l1x
-	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L1X.git
 [submodule "libraries/drivers/motor"]
 	path = libraries/drivers/motor
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Motor.git
 [submodule "libraries/drivers/hid"]
 	path = libraries/drivers/hid
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HID.git
+[submodule "libraries/drivers/vl53l0x"]
+	path = libraries/drivers/vl53l0x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X.git
