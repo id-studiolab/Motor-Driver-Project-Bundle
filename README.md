@@ -1,5 +1,5 @@
 # CIK Project bundle CircuitPython
-This repo aims to make a project bundle for the Connected interaction kit
+This repo aims to make a project bundle for the Motor Driver board
 
 This repo is based on the Adafruit CircuitPython community bundle, this makes it simple and easy to build and distribute the bundle with the help of the github actions.
 The repo is made with the help of [this tutorial](https://adafruit-playground.com/u/tyeth/pages/creating-a-circuitpython-library-bundle-for-circup)
